@@ -1,0 +1,12 @@
+// This is a txt file which I used as a third party to send the data from python program to sql database. //
+
+// Below is a small sample to show how the format in which the data was organized. //
+
+of, 1879, January, 2022
+the, 4391, January, 2022
+ashes, 1, January, 2022
+emocrats, 102, January, 2022
+failed, 13, January, 2022
+effort, 40, January, 2022
+to, 2492, January, 2022
+set, 19, January, 2022
